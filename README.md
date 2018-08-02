@@ -84,9 +84,9 @@ Allow to filter the server records in the table by specifying search condition f
 ### Table *ports*
 
 ```
-+------------------------------+
-|id | switch_id | name | desc  | 
-+------------------------------+
++------------------------------------------+
+|id | switch_id | server_id | name | desc  | 
++------------------------------------------+
 ```
 - id (integer primary key)
 - switch_id (integer)
