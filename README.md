@@ -12,7 +12,7 @@ Once you have finished the project please send me the link of github project whe
 ## Task
 
 Create a web page where servers list with their properties will be displayed. It should be represented as a table with following columns. Each column should be filterable.
-![general view screenshot](./screen1.png)
+![general view screenshot](./img/screen1.png)
 
 * UI Table Columns
   - Name 
@@ -32,10 +32,10 @@ Each port also has properties related to BGP protocol states. The format of BGP 
 Allow to filter the server records in the table by specifying search condition for each column. The result of filtering should be generated based on the all search criteria.
 
 ### Screenshot of filtering the server by criterions 
-![screenshot of filtering](./screen4.png)
+![screenshot of filtering](./img/screen4.png)
 ### Screenshots of deleting the server
-![screenshot of filtering](./screen6.png)
-![screenshot of filtering](./screen7.png)
+![screenshot of filtering](./img/screen6.png)
+![screenshot of filtering](./img/screen7.png)
 
 
 
